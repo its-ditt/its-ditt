@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap" rel="stylesheet">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=👋+Hi,+I+am+Divyansh+aka+Ditt.;🚀+A+tech+enthusiast+and+self-learner...;💻+Currently+cracking+knuckles+on+VLSI" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=28&duration=3500&pause=1000&color=00F5FF&background=0D1B2A&center=true&vCenter=true&width=850&height=120&lines=🌊+Hi,+I+am+Divyansh+aka+Ditt.;⚡+A+tech+enthusiast+and+self-learner...;💻+Currently+cracking+knuckles+on+VLSI" />
 </p>
